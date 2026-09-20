@@ -1,4 +1,3 @@
-STUDY-OF-SOCIAL-MEDIA-CONSUMPTION-BY-AGING-POPULATION-IN-INDIA-
 # Study of Social Media Consumption by Aging Population in India
 
 ## Overview
